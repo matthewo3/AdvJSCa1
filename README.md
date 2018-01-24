@@ -2,6 +2,7 @@
 This is a space invaders style game that has the user control a ship defending itself against falling asteroids and a following enemy. The player uses the arrow keys to move left and right while using the space bar to shoot.
 
 Getting Started:
+
 Download the files.
 
 Open node.js.Change the directory to the folder containg the files.
